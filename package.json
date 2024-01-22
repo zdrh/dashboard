@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootswatch": "^5.3.2",
+    "jquery": "^3.7.1",
+    "jquery-validation": "^1.20.0",
+    "pristinejs": "^1.1.0",
+    "vanillajs-validation": "^1.8.4"
+  }
+}
